@@ -3,6 +3,10 @@ package com.exercises.java;
 import java.util.Scanner;
 import java.text.Normalizer;
 
+/**
+ * @author Matthieu SKR.
+ * @date 16 Novembre 2023
+ */
 public class TesteurPalindrome {
 
 	public static void main(String[] args) {

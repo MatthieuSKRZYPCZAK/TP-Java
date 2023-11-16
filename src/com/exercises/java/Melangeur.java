@@ -1,4 +1,4 @@
-package fr.eni_ecole.jse.melangeur;
+package com.exercises.java;
 
 
 import java.util.Random;
