@@ -96,7 +96,7 @@ public class Cuisson {
 			System.out.println("Type de viande invalide");
 
 		if (tempsCuisson > 0)
-			System.out.println("************************************");
+		System.out.println("************************************");
 		System.out.println("******* L'Empire des Flammes *******");
 		System.out.println("************************************");
 		System.out.println(
