@@ -40,6 +40,7 @@ public class GestionDesVilles {
 		}
 	}
 	
+	// Affiche le contenu d'un tableau avec un numéro aléatoire en fin de nom
 	private static void displayTabWithRandomNumber(String[] array) {
 		Random random = new Random();
 		System.out.println("******* Contenu du tableau avec un numéro aléatoire en fin de nom *******");
